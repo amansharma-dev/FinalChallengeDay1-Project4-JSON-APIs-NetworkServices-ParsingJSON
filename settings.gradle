@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "FinalChallengeDay1-Project4-JSON-APIs-NetworkServices-ParsingJSON"
